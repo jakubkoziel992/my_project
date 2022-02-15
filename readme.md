@@ -1,1 +1,1 @@
-This is my brand new project versioned in Git, YAY !!
+This is my new brand project versioned in Git YAY !!
